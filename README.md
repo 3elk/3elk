@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Elk, from The US<br><br>- 🏫 Currently still attending school.<br>- 📚 I'm currently working on learning more Python.<br>- ⚡ In my free time I do stuff on github!</p>
+<p align="left"> 📚 I'm currently working on learning more Python.<br>- ⚡ In my free time I do stuff on github!</p>
 
 ###
 
