@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png" height="40" alt="powershell logo"  />
+  <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.svg" height="40" alt="powershell logo"  />
 </div>
 
 ###
