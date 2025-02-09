@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a>  
 
-  PS: im net to this, spare me :'(
+  PS: im new to this, spare me :'(
 </div>
 
 ###
