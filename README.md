@@ -3,6 +3,12 @@
 
 ###
 
+<h3 align="left">💬 Where to contact:</h3>
+
+<p align="left">- @2elk on Discord.<br>
+
+###
+
 <h3 align="left">👩‍💻  Currently doing:</h3>
 
 ###
