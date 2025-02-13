@@ -28,7 +28,6 @@
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 
   PS: im new to this, spare me :'(
