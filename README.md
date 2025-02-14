@@ -35,7 +35,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3elk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="![3elk's Stats](https://github-readme-stats.vercel.app/api?username=3elk&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)"  />
+  <img src="![3elk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=3elk&theme=vue-dark&hide_border=true)" height="150" alt="
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3elk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
