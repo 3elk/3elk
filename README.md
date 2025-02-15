@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- Learning more Python.<br>- Making stuff look pretty on my github.<br>- Working on my personal website!</p>
+<p align="left">- Learning more Python.<br>- Learning more HTML.<br> HTML IP Grabber<br>- Improving my past repositories</p>
 
 ###
 
