@@ -35,9 +35,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3elk&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="3elk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3elk&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="3elk's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=3elk&theme=midnight-purple&hide_border=true" alt="3elk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3elk&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="3elk's GitHub Stats" />
 </div>
 
 ###
