@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">💬 Where to contact:</h3>
+<h3 align="left">💬  Where to contact :</h3>
 
 <p align="left">- @2elk on Discord.<br>
 
@@ -32,6 +32,8 @@
 </div>
 
 ###
+
+<h3 align="left">⭐  Favorite repo at the moment :</h3>
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
