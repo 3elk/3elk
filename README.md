@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Currently doing:</h3>
+<h3 align="left">👩‍💻  Currently doing :</h3>
 
 ###
 
