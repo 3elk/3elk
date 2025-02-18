@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">⭐  Favorite repo at the moment :</h3>
+<h3 align="left">⭐  Favorite repositories at the moment :</h3>
 
 ###
 
