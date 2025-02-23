@@ -45,8 +45,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=3elk&show_icons=true&theme=midnight-purple)" height="150" alt="stats graph"  />
-  <img src="https://camo.githubusercontent.com/afe7cd29468703e96f6289fe218074cf9169c60a6dd622da4f784443c67d6ce5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d33656c6b266c61796f75743d636f6d70616374267468656d653d6d69646e696768742d707572706c65"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=3elk&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3elk&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
 
 ###
