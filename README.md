@@ -37,7 +37,7 @@
 
 ###
 
-<a href="[(https://github.com/3elk/OwlHook)">OwlHook 🦉 (Webhook Tool)</a>
+<a href="[https://github.com/3elk/OwlHook]">OwlHook 🦉 (Webhook Tool)</a>
 
 <a href="https://github.com/3elk/Website-IP-Logger"> Website-IP-Logger </a>
 
