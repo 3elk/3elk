@@ -46,7 +46,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3elk&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3elk&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=3elk&theme=midnight-purple" alt="Top Languages" />
 </div>
 
 ###
