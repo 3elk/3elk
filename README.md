@@ -3,6 +3,8 @@
 
 ###
 
+<img src="https://i.pinimg.com/736x/18/1b/f0/181bf0335f5ff9be155454ca1171bd66.jpg" alt="sigma" >
+
 <h3 align="left">💬  Where to contact :</h3>
 
 <p align="left">- @2elk on Discord.<br>
