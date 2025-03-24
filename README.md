@@ -37,7 +37,7 @@
 
 ###
 
-<a href="https://github.com/3elk/OwlHook">OwlHook 🦉 (Webhook Tool)</a>
+<a href="https://github.com/3elk/PortWhale">PortWhale 🐋 (Port Scanner)</a>
 
 <a href="https://github.com/3elk/3elk.github.io"> My website! </a>
 
