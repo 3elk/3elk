@@ -38,7 +38,7 @@
 
 ###
 
-<a href="https://github.com/3elk/PortWhale">PortWhale 🐋 (Port Scanner)</a>
+<a href="https://wordelk.vercel.app/">Wordelk (Wordle Remake)</a>
 
 <a href="https://github.com/3elk/3elk.github.io"> My website! </a>
 
